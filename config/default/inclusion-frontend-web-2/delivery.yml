@@ -30,7 +30,7 @@ spec:
         carto.run/workload-name: inclusion-frontend-web-2
     spec:
       containers:
-      - image: registry.fklein.me/tap-runtime/supply-chain/inclusion-frontend-web-2-default@sha256:d9168092851acd38c8b8c2dc4c5db75d5de9c615e34dac4f6c440b187c7fc779
+      - image: registry.fklein.me/tap-runtime/supply-chain/inclusion-frontend-web-2-default@sha256:495d919c59a57d434e1512b4b485e2589a174cc26c4581b75290712ed58612ce
         name: workload
         resources: {}
         securityContext:
